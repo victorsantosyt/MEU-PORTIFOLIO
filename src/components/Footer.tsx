@@ -1,4 +1,5 @@
 import { ExternalLink } from "lucide-react";
+import { Link } from "react-router-dom";
 import { useI18n } from "@/lib/i18n";
 
 const Footer = () => {
@@ -19,9 +20,9 @@ const Footer = () => {
           >
             GitHub <ExternalLink className="w-3 h-3" />
           </a>
-          <a href="#" className="text-muted-foreground hover:text-neon-green transition-colors text-sm">
+          <Link to="/" className="text-muted-foreground hover:text-neon-green transition-colors text-sm">
             {t("footer.portfolio")}
-          </a>
+          </Link>
           <a href="#" className="text-muted-foreground hover:text-neon-green transition-colors text-sm">
             {t("footer.resume")}
           </a>

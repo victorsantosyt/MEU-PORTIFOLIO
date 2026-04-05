@@ -1,7 +1,10 @@
 {
   "permissions": {
     "allow": [
-      "Bash(npm install:*)"
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(npm uninstall:*)",
+      "Bash(sips -s format jpeg \"/Users/victorsantos/Desktop/AREA DE TRABALHO/portifoligo_victordev/public/images/imagen.heic\" --out \"/Users/victorsantos/Desktop/AREA DE TRABALHO/portifoligo_victordev/public/images/imagen.jpg\")"
     ]
   }
 }

@@ -43,6 +43,9 @@ const translations: Record<Locale, Record<string, string>> = {
     "footer.built": "Built by",
     "footer.portfolio": "Portfolio",
     "footer.resume": "Resume",
+    "about.bio1": "My name is Victor Santos, I'm 27 years old, an IT student and currently building my journey in technology with a focus on hands-on learning, systems development and real-world projects.",
+    "about.bio2": "I have a strong interest in programming, modern interfaces, automation and solutions that bring technology and practicality together. My focus is turning ideas into something visual, functional and well-structured.",
+    "about.bio3": "I constantly seek to grow as a developer, broaden my experience through professional projects and become increasingly prepared to create innovative, scalable and impactful solutions.",
   },
   pt: {
     "hero.subtitle": "Engenheiro Full-Stack • DevOps • Sistemas de Rede",
@@ -84,6 +87,9 @@ const translations: Record<Locale, Record<string, string>> = {
     "footer.built": "Construído por",
     "footer.portfolio": "Portfólio",
     "footer.resume": "Currículo",
+    "about.bio1": "Meu nome é Victor Santos, tenho 27 anos, sou estudante de TI e atualmente estou construindo minha trajetória na tecnologia com foco em aprendizado prático, desenvolvimento de sistemas e criação de projetos reais.",
+    "about.bio2": "Tenho grande interesse em programação, interfaces modernas, automações e soluções que unem tecnologia e utilidade no dia a dia. Meu foco é transformar ideias em algo visual, funcional e bem estruturado.",
+    "about.bio3": "Busco evoluir constantemente como desenvolvedor, ampliar minha experiência com projetos profissionais e me tornar cada vez mais preparado para criar soluções inovadoras, escaláveis e de impacto.",
   },
   es: {
     "hero.subtitle": "Ingeniero Full-Stack • DevOps • Sistemas de Red",
@@ -125,6 +131,9 @@ const translations: Record<Locale, Record<string, string>> = {
     "footer.built": "Construido por",
     "footer.portfolio": "Portafolio",
     "footer.resume": "Currículum",
+    "about.bio1": "Me llamo Victor Santos, tengo 27 años, soy estudiante de TI y actualmente estoy construyendo mi trayectoria en tecnología con enfoque en aprendizaje práctico, desarrollo de sistemas y creación de proyectos reales.",
+    "about.bio2": "Tengo gran interés en programación, interfaces modernas, automatizaciones y soluciones que unen tecnología y utilidad en el día a día. Mi enfoque es transformar ideas en algo visual, funcional y bien estructurado.",
+    "about.bio3": "Busco evolucionar constantemente como desarrollador, ampliar mi experiencia con proyectos profesionales y prepararme cada vez más para crear soluciones innovadoras, escalables y de impacto.",
   },
   fr: {
     "hero.subtitle": "Ingénieur Full-Stack • DevOps • Systèmes Réseau",
@@ -166,6 +175,9 @@ const translations: Record<Locale, Record<string, string>> = {
     "footer.built": "Construit par",
     "footer.portfolio": "Portfolio",
     "footer.resume": "CV",
+    "about.bio1": "Je m'appelle Victor Santos, j'ai 27 ans, je suis étudiant en informatique et je construis actuellement mon parcours dans la technologie avec un focus sur l'apprentissage pratique, le développement de systèmes et la création de projets réels.",
+    "about.bio2": "J'ai un grand intérêt pour la programmation, les interfaces modernes, l'automatisation et les solutions qui allient technologie et utilité au quotidien. Mon objectif est de transformer des idées en quelque chose de visuel, fonctionnel et bien structuré.",
+    "about.bio3": "Je cherche à évoluer constamment en tant que développeur, à élargir mon expérience avec des projets professionnels et à me préparer de plus en plus à créer des solutions innovantes, évolutives et impactantes.",
   },
   de: {
     "hero.subtitle": "Full-Stack-Ingenieur • DevOps • Netzwerksysteme",
@@ -207,6 +219,9 @@ const translations: Record<Locale, Record<string, string>> = {
     "footer.built": "Erstellt von",
     "footer.portfolio": "Portfolio",
     "footer.resume": "Lebenslauf",
+    "about.bio1": "Mein Name ist Victor Santos, ich bin 27 Jahre alt, studiere IT und baue derzeit meinen Weg in der Technologie auf – mit Fokus auf praktisches Lernen, Systementwicklung und die Erstellung realer Projekte.",
+    "about.bio2": "Ich interessiere mich sehr für Programmierung, moderne Interfaces, Automatisierung und Lösungen, die Technologie und Alltagsnutzen verbinden. Mein Ziel ist es, Ideen in etwas Visuelles, Funktionales und Gut-Strukturiertes zu verwandeln.",
+    "about.bio3": "Ich strebe danach, mich als Entwickler kontinuierlich weiterzuentwickeln, meine Erfahrung mit professionellen Projekten auszubauen und mich immer besser darauf vorzubereiten, innovative, skalierbare und wirkungsvolle Lösungen zu schaffen.",
   },
   it: {
     "hero.subtitle": "Ingegnere Full-Stack • DevOps • Sistemi di Rete",
@@ -248,6 +263,9 @@ const translations: Record<Locale, Record<string, string>> = {
     "footer.built": "Costruito da",
     "footer.portfolio": "Portfolio",
     "footer.resume": "Curriculum",
+    "about.bio1": "Mi chiamo Victor Santos, ho 27 anni, sono uno studente di informatica e sto costruendo il mio percorso nella tecnologia con focus sull'apprendimento pratico, lo sviluppo di sistemi e la creazione di progetti reali.",
+    "about.bio2": "Ho un grande interesse per la programmazione, le interfacce moderne, l'automazione e le soluzioni che uniscono tecnologia e utilità quotidiana. Il mio obiettivo è trasformare le idee in qualcosa di visivo, funzionale e ben strutturato.",
+    "about.bio3": "Cerco di evolvere costantemente come sviluppatore, ampliare la mia esperienza con progetti professionali e prepararmi sempre di più a creare soluzioni innovative, scalabili e di impatto.",
   },
   ja: {
     "hero.subtitle": "フルスタックエンジニア • DevOps • ネットワークシステム",
@@ -289,6 +307,9 @@ const translations: Record<Locale, Record<string, string>> = {
     "footer.built": "制作者",
     "footer.portfolio": "ポートフォリオ",
     "footer.resume": "履歴書",
+    "about.bio1": "私の名前はビクター・サントス、27歳のIT学生です。現在、実践的な学習、システム開発、実際のプロジェクト作成に注力しながら、テクノロジーの分野でキャリアを築いています。",
+    "about.bio2": "プログラミング、モダンなインターフェース、自動化、そして技術と日常の実用性を結びつけるソリューションに強い関心を持っています。アイデアを視覚的で機能的かつ構造的なものに変えることが私の目標です。",
+    "about.bio3": "開発者として絶えず成長し、プロジェクトを通じて経験を広げ、革新的でスケーラブルかつインパクトあるソリューションを生み出せる準備を整えることを目指しています。",
   },
   zh: {
     "hero.subtitle": "全栈工程师 • DevOps • 网络系统",
@@ -330,6 +351,9 @@ const translations: Record<Locale, Record<string, string>> = {
     "footer.built": "构建者",
     "footer.portfolio": "作品集",
     "footer.resume": "简历",
+    "about.bio1": "我叫Victor Santos，今年27岁，是一名IT专业学生，目前正在以实践学习、系统开发和创建真实项目为重点，在科技领域构建我的职业道路。",
+    "about.bio2": "我对编程、现代界面、自动化以及将技术与日常实用性相结合的解决方案有浓厚兴趣。我的目标是将想法转化为视觉上美观、功能完善且结构良好的产品。",
+    "about.bio3": "我不断追求作为开发者的成长，通过专业项目积累经验，并为创建创新、可扩展且具有影响力的解决方案做好准备。",
   },
   ko: {
     "hero.subtitle": "풀스택 엔지니어 • DevOps • 네트워크 시스템",
@@ -371,6 +395,9 @@ const translations: Record<Locale, Record<string, string>> = {
     "footer.built": "제작자",
     "footer.portfolio": "포트폴리오",
     "footer.resume": "이력서",
+    "about.bio1": "제 이름은 Victor Santos이고, 27세 IT 학생입니다. 현재 실전 학습, 시스템 개발, 실제 프로젝트 제작에 집중하며 기술 분야에서 저만의 경력을 쌓아가고 있습니다.",
+    "about.bio2": "프로그래밍, 현대적인 인터페이스, 자동화, 그리고 기술과 일상의 실용성을 연결하는 솔루션에 큰 관심을 가지고 있습니다. 아이디어를 시각적이고 기능적이며 잘 구조화된 결과물로 변환하는 것이 저의 목표입니다.",
+    "about.bio3": "개발자로서 끊임없이 성장하고, 전문 프로젝트를 통해 경험을 넓히며, 혁신적이고 확장 가능하며 영향력 있는 솔루션을 만들 준비를 갖추기 위해 노력하고 있습니다.",
   },
   ru: {
     "hero.subtitle": "Full-Stack Инженер • DevOps • Сетевые Системы",
@@ -412,6 +439,9 @@ const translations: Record<Locale, Record<string, string>> = {
     "footer.built": "Создано",
     "footer.portfolio": "Портфолио",
     "footer.resume": "Резюме",
+    "about.bio1": "Меня зовут Виктор Сантос, мне 27 лет, я студент IT и в настоящее время выстраиваю свой путь в технологиях, делая акцент на практическом обучении, разработке систем и создании реальных проектов.",
+    "about.bio2": "Меня очень интересует программирование, современные интерфейсы, автоматизация и решения, объединяющие технологии с практической пользой в повседневной жизни. Моя цель — превращать идеи во что-то визуальное, функциональное и хорошо структурированное.",
+    "about.bio3": "Я стремлюсь постоянно развиваться как разработчик, расширять опыт через профессиональные проекты и всё лучше готовиться к созданию инновационных, масштабируемых и значимых решений.",
   },
 };
 

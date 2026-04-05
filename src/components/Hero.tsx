@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
-import { ExternalLink, Mail, MessageCircle } from "lucide-react";
+import { ExternalLink, Mail, MessageCircle, User } from "lucide-react";
+import { Link } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import { useI18n } from "@/lib/i18n";
 
@@ -34,11 +35,16 @@ const Hero = () => {
               <Mail className="w-4 h-4" /> E-mail
             </Button>
           </a>
-          <a href="https://wa.me/5566981309903" target="_blank" rel="noopener noreferrer">
+          <a href="https://wa.me/5566981309903?text=Ol%C3%A1%20victor%20santos%2C%20vim%20atravez%20do%20seu%20portif%C3%B3lio" target="_blank" rel="noopener noreferrer">
             <Button variant="neon-outline" size="lg" className="gap-2">
               <MessageCircle className="w-4 h-4" /> WhatsApp
             </Button>
           </a>
+          <Link to="/sobre">
+            <Button variant="neon-outline" size="lg" className="gap-2">
+              <User className="w-4 h-4" /> Sobre mim
+            </Button>
+          </Link>
         </div>
       </motion.div>
     </section>
